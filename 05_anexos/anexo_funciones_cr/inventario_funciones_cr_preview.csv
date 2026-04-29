@@ -1,0 +1,17 @@
+﻿archivo,Pollutant,Metric,Endpoint Group,Endpoint,Reference,Beta,Author,beta_se
+benmap_health_impact_functions_import_full.csv,PM25,Annual (D8HourMax),Mortality,All-cause mortality,Di et al. (2017),0.001094,,
+benmap_health_impact_functions_import_full.csv,O3,D8HourMax,Mortality,Respiratory mortality,Katsouyanni et al. (2009),0.000867,,
+benmap_health_impact_functions_import_full_v2.csv,PM25,AnnualMean,Mortality,All-cause mortality,Di et al. (2017),0.001094,,
+benmap_health_impact_functions_import_full_v2.csv,O3,D8HourMax,Mortality,Respiratory mortality,Katsouyanni et al. (2009),0.000867,,
+benmap_health_impact_functions_import_full_v3.csv,PM25,AnnualMean,Mortality,All-cause mortality,Di et al. (2017),0.001094,,
+benmap_health_impact_functions_import_full_v3.csv,O3,D8HourMax,Mortality,Respiratory mortality,Katsouyanni et al. (2009),0.000867,,
+benmap_health_impact_functions_import_full_v4.csv,PM25,AnnualMean,Mortality,All-cause mortality,Di et al. (2017),0.001094,,
+benmap_health_impact_functions_import_full_v4.csv,O3,D8HourMax,Mortality,Respiratory mortality,Katsouyanni et al. (2009),0.000867,,
+benmap_health_impact_functions_ready_only.csv,PM25,Annual (D8HourMax),Mortality,All-cause mortality,,,Di et al.,
+benmap_health_impact_functions_ready_only.csv,O3,D8HourMax,Mortality,Respiratory mortality,,,Katsouyanni et al.,
+benmap_health_impact_functions_ready_only_working.csv,PM25,Annual (D8HourMax),Mortality,All-cause mortality,,,Di et al.,5e-05
+benmap_health_impact_functions_ready_only_working.csv,O3,D8HourMax,Mortality,Respiratory mortality,,,Katsouyanni et al.,0.000304
+benmap_health_impact_functions_working.csv,PM25,Annual (D8HourMax),Mortality,All-cause mortality,,,Di et al.,5e-05
+benmap_health_impact_functions_working.csv,PM25,PM25 Annual Mean,Mortality,Respiratory mortality,,,Pope & Dockery,
+benmap_health_impact_functions_working.csv,O3,D8HourMax,Mortality,Respiratory mortality,,,Katsouyanni et al.,0.000304
+benmap_health_impact_functions_working.csv,NO2,NO2 Annual Mean,Mortality,Circulatory mortality,,,Custom NO2 Function,

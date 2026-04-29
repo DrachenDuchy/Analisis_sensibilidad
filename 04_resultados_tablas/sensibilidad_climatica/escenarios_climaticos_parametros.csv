@@ -1,0 +1,10 @@
+﻿pollutant,climate_scenario,climate_multiplier,climate_note
+PM25,Escenario climático favorable,0.95,Mayor dispersión / menor acumulación
+PM25,Escenario climático central,1.0,Escenario de referencia
+PM25,Escenario climático desfavorable,1.1,Mayor acumulación / menor ventilación
+NO2,Escenario climático favorable,0.97,Menor acumulación local
+NO2,Escenario climático central,1.0,Escenario de referencia
+NO2,Escenario climático desfavorable,1.05,Mayor estancamiento local
+O3,Escenario climático favorable,0.9,Menor formación fotoquímica
+O3,Escenario climático central,1.0,Escenario de referencia
+O3,Escenario climático desfavorable,1.15,Mayor formación fotoquímica

@@ -1,0 +1,2 @@
+﻿Endpoint Group,Endpoint,Pollutant,Metric,Seasonal Metric,Metric Statistic,Study Year,Study Author,Study Location,Reference,Qualifier,Race,Ethnicity,Gender,Start Age,End Age,Geographic Area,Incidence DataSet,Prevalence DataSet,Variable DataSet,Beta,Distribution Beta,Parameter 1 Beta,Parameter 2 Beta,Other Pollutants,Function,Baseline Function,A,Name A,B,Name B,C,Name C
+Mortality,All-cause mortality,PM25,AnnualMean,,None,2017,Di et al.,Di et al. (2017),Di et al. (2017),BenMAP core PM2.5 mortality function,ALL,ALL,ALL,65,99,,,,,0.001094,,,,,log-linear,,,,,,,

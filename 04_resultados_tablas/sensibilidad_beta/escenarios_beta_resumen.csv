@@ -1,0 +1,8 @@
+﻿run_id,pollutant,endpoint,beta_scenario,beta_value,beta_reference
+NO2_ASTHMA,NO2,Asthma,Escenario beta central,0.003324,beta_base_corrida_principal
+NO2_CLD,NO2,Chronic Lung Disease,Escenario beta central,0.00185,beta_base_corrida_principal
+O3_MAIN,O3,Respiratory mortality,Escenario beta alto,0.00146284,beta_plus_1.96_se
+O3_MAIN,O3,Respiratory mortality,Escenario beta bajo,0.00027116,beta_minus_1.96_se
+O3_MAIN,O3,Respiratory mortality,Escenario beta central,0.000867,beta_base_corrida_principal
+PM25_MAIN,PM25,All-cause mortality,Escenario beta bajo,0.001094,beta_alternativo_pipeline_previo
+PM25_MAIN,PM25,All-cause mortality,Escenario beta central,0.008066,beta_base_corrida_principal

@@ -1,0 +1,13 @@
+﻿run_id,pollutant,endpoint_group,endpoint,economic_method,economic_scenario,valuation_value_usd_2015,valuation_reference
+PM25_MAIN,PM25,Mortality,All-cause mortality,VSL,Escenario económico bajo,6964091.2,VSL_2015_USD_x_0.80
+PM25_MAIN,PM25,Mortality,All-cause mortality,VSL,Escenario económico central,8705114.0,VSL_2015_USD_x_1.00
+PM25_MAIN,PM25,Mortality,All-cause mortality,VSL,Escenario económico alto,10446136.799999999,VSL_2015_USD_x_1.20
+O3_MAIN,O3,Mortality,Respiratory mortality,VSL,Escenario económico bajo,6964091.2,VSL_2015_USD_x_0.80
+O3_MAIN,O3,Mortality,Respiratory mortality,VSL,Escenario económico central,8705114.0,VSL_2015_USD_x_1.00
+O3_MAIN,O3,Mortality,Respiratory mortality,VSL,Escenario económico alto,10446136.799999999,VSL_2015_USD_x_1.20
+NO2_ASTHMA,NO2,Hospital Admissions,Asthma,UNIT_VALUE_ASTHMA_HA,Escenario económico bajo,8985.6,UNIT_VALUE_ASTHMA_HA_2015_USD_x_0.80
+NO2_ASTHMA,NO2,Hospital Admissions,Asthma,UNIT_VALUE_ASTHMA_HA,Escenario económico central,11232.0,UNIT_VALUE_ASTHMA_HA_2015_USD_x_1.00
+NO2_ASTHMA,NO2,Hospital Admissions,Asthma,UNIT_VALUE_ASTHMA_HA,Escenario económico alto,13478.4,UNIT_VALUE_ASTHMA_HA_2015_USD_x_1.20
+NO2_CLD,NO2,Hospital Admissions,Chronic Lung Disease,UNIT_VALUE_CLD_HA,Escenario económico bajo,12300.0,UNIT_VALUE_CLD_HA_2015_USD_x_0.80
+NO2_CLD,NO2,Hospital Admissions,Chronic Lung Disease,UNIT_VALUE_CLD_HA,Escenario económico central,15375.0,UNIT_VALUE_CLD_HA_2015_USD_x_1.00
+NO2_CLD,NO2,Hospital Admissions,Chronic Lung Disease,UNIT_VALUE_CLD_HA,Escenario económico alto,18450.0,UNIT_VALUE_CLD_HA_2015_USD_x_1.20

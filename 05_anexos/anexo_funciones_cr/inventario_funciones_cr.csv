@@ -1,0 +1,8 @@
+﻿archivo,ruta,n_filas,n_columnas,col_contaminante,col_endpoint,col_endpoint_group,col_estudio,col_beta,col_beta_se,col_metric,estado
+benmap_health_impact_functions_import_full.csv,D:\TRABAJO DE GRADO BEN-MAP\SALIDAS_SENSIBILIDAD\01_insumos\benmap\benmap_health_impact_functions_import_full.csv,2,33,Pollutant,Endpoint,Endpoint Group,Reference,Beta,,Metric,ok
+benmap_health_impact_functions_import_full_v2.csv,D:\TRABAJO DE GRADO BEN-MAP\SALIDAS_SENSIBILIDAD\01_insumos\benmap\benmap_health_impact_functions_import_full_v2.csv,2,33,Pollutant,Endpoint,Endpoint Group,Reference,Beta,,Metric,ok
+benmap_health_impact_functions_import_full_v3.csv,D:\TRABAJO DE GRADO BEN-MAP\SALIDAS_SENSIBILIDAD\01_insumos\benmap\benmap_health_impact_functions_import_full_v3.csv,2,33,Pollutant,Endpoint,Endpoint Group,Reference,Beta,,Metric,ok
+benmap_health_impact_functions_import_full_v4.csv,D:\TRABAJO DE GRADO BEN-MAP\SALIDAS_SENSIBILIDAD\01_insumos\benmap\benmap_health_impact_functions_import_full_v4.csv,2,33,Pollutant,Endpoint,Endpoint Group,Reference,Beta,,Metric,ok
+benmap_health_impact_functions_ready_only.csv,D:\TRABAJO DE GRADO BEN-MAP\SALIDAS_SENSIBILIDAD\01_insumos\benmap\benmap_health_impact_functions_ready_only.csv,2,15,Pollutant,Endpoint,Endpoint Group,Author,,,Metric,ok
+benmap_health_impact_functions_ready_only_working.csv,D:\TRABAJO DE GRADO BEN-MAP\SALIDAS_SENSIBILIDAD\01_insumos\benmap\benmap_health_impact_functions_ready_only_working.csv,2,26,Pollutant,Endpoint,Endpoint Group,Author,,beta_se,Metric,ok
+benmap_health_impact_functions_working.csv,D:\TRABAJO DE GRADO BEN-MAP\SALIDAS_SENSIBILIDAD\01_insumos\benmap\benmap_health_impact_functions_working.csv,4,26,Pollutant,Endpoint,Endpoint Group,Author,,beta_se,Metric,ok

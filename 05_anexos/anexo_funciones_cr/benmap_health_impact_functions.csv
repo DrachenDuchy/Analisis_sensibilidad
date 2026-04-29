@@ -1,0 +1,5 @@
+﻿Endpoint Group,Endpoint,Pollutant,Metric,Annual Statistic,Seasonal Metric,Race,Ethnicity,Gender,Start Age,End Age,Author,Apply Function To,Year of Publication,Qualifier
+Mortality,Circulatory mortality,PM25,PM25 Annual Mean,,,,,,0,99,Pope & Dockery,Entire Area,2006,Provisional epidemiologic function
+Mortality,Respiratory mortality,PM25,PM25 Annual Mean,,,,,,0,99,Pope & Dockery,Entire Area,2006,Provisional epidemiologic function
+Mortality,Respiratory mortality,O3,O3 Seasonal Mean,,,,,,0,99,Tagaris et al.,Entire Area,2010,Provisional epidemiologic function
+Mortality,Circulatory mortality,NO2,NO2 Annual Mean,,,,,,0,99,Custom NO2 Function,Entire Area,2021,Provisional epidemiologic function

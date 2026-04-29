@@ -1,0 +1,13 @@
+﻿run_id,pollutant,endpoint_group,endpoint,economic_method,economic_scenario,n_rows,n_unique_cells,avoided_cases_total,valuation_value_usd_2015,economic_value_total_usd_2015,economic_value_total_cop_2015
+NO2_ASTHMA,NO2,Hospital Admissions,Asthma,UNIT_VALUE_ASTHMA_HA,Escenario económico alto,254,254,12.71352609091988,13478.4,171357.9900638545,475249390.38279593
+NO2_ASTHMA,NO2,Hospital Admissions,Asthma,UNIT_VALUE_ASTHMA_HA,Escenario económico bajo,254,254,12.71352609091988,8985.6,114238.66004256967,316832926.921864
+NO2_ASTHMA,NO2,Hospital Admissions,Asthma,UNIT_VALUE_ASTHMA_HA,Escenario económico central,254,254,12.71352609091988,11232.0,142798.3250532121,396041158.65233
+NO2_CLD,NO2,Hospital Admissions,Chronic Lung Disease,UNIT_VALUE_CLD_HA,Escenario económico alto,254,254,9.454137916977846,18450.0,174428.84456824124,483766190.3908973
+NO2_CLD,NO2,Hospital Admissions,Chronic Lung Disease,UNIT_VALUE_CLD_HA,Escenario económico bajo,254,254,9.454137916977846,12300.0,116285.8963788275,322510793.5939315
+NO2_CLD,NO2,Hospital Admissions,Chronic Lung Disease,UNIT_VALUE_CLD_HA,Escenario económico central,254,254,9.454137916977846,15375.0,145357.37047353436,403138491.9924144
+O3_MAIN,O3,Mortality,Respiratory mortality,VSL,Escenario económico alto,254,254,2.204552731440549,10446136.8,23029059.41544164,63869484254.568306
+O3_MAIN,O3,Mortality,Respiratory mortality,VSL,Escenario económico bajo,254,254,2.204552731440549,6964091.2,15352706.276961094,42579656169.712204
+O3_MAIN,O3,Mortality,Respiratory mortality,VSL,Escenario económico central,254,254,2.204552731440549,8705114.0,19190882.846201368,53224570212.14025
+PM25_MAIN,PM25,Mortality,All-cause mortality,VSL,Escenario económico alto,254,254,1.29979905696589,10446136.8,13577878.76157668,37657296293.71961
+PM25_MAIN,PM25,Mortality,All-cause mortality,VSL,Escenario económico bajo,254,254,1.29979905696589,6964091.2,9051919.174384452,25104864195.813072
+PM25_MAIN,PM25,Mortality,All-cause mortality,VSL,Escenario económico central,254,254,1.29979905696589,8705114.0,11314898.967980566,31381080244.76634
