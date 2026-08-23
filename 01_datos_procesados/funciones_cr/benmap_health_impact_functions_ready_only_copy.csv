@@ -1,3 +1,0 @@
-﻿Endpoint Group,Endpoint,Pollutant,Metric,Annual Statistic,Seasonal Metric,Race,Ethnicity,Gender,Start Age,End Age,Author,Apply Function To,Year of Publication,Qualifier
-Mortality,All-cause mortality,PM25,Annual (D8HourMax),,,,,,65,99,Di et al.,Entire Area,2017,BenMAP core PM2.5 mortality function
-Mortality,Respiratory mortality,O3,D8HourMax,,,,,,0,99,Katsouyanni et al.,Entire Area,2009,BenMAP core ozone respiratory mortality

@@ -1,5 +1,0 @@
-﻿run_id,n_rows,n_unique_cells,population_total,population_min,population_max,missing_cell_id
-NO2_ASTHMA,254,254,16055443.0,30.0,88378.0,0
-NO2_CLD,254,254,1704060.0,3.0,9380.0,0
-O3_MAIN,254,254,16055443.0,30.0,88378.0,0
-PM25_MAIN,254,254,1704060.0,3.0,9380.0,0

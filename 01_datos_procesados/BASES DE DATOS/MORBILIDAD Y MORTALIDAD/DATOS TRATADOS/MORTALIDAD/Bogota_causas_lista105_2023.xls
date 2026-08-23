@@ -1,0 +1,106 @@
+Año,Codigo_Lista,Causa,Total,Capitulo_IJ
+2023,1,Enfermedades infecciosas intestinales,67,I
+2023,2,Tuberculosis y secuelas,76,I
+2023,3,Ciertas enfermedades transmitidas por vectores y rabia,19,I
+2023,4,Ciertas enfermedades inmunoprevenibles,1,I
+2023,5,"Septicemia, excepto neonatal",15,I
+2023,6,Todas las demás enfermedades bacterianas,16,I
+2023,7,Sífilis y otras enfermedades venéreas,3,I
+2023,8,Hepatitis viral y secuelas,5,I
+2023,9,Enfermedad por el VIH (SIDA),222,I
+2023,10,Todas las demás enfermedades infecciosas y parasitarias,190,I
+2023,11,"Tumores malignos del labio, de la cavidad bucal y de la faringe",71,Otros
+2023,12,Tumor maligno del esófago,65,Otros
+2023,13,Tumor maligno del estómago,552,Otros
+2023,14,"Tumor maligno del colon, de la unión rectosigmoidea, recto y ano",480,Otros
+2023,15,Tumor maligno del hígado,164,Otros
+2023,16,Tumor maligno de la vesícula biliar y de las vías biliares,77,Otros
+2023,17,Tumor maligno del páncreas,199,Otros
+2023,18,Todos los demás tumores malignos de los órganos digestivos y del peritoneo,78,Otros
+2023,19,Tumor maligno de la laringe,34,Otros
+2023,20,"Tumor maligno de la tráquea, los bronquios y el pulmón",300,Otros
+2023,21,"Todos los demás tumores malignos de los órganos respiratorios e intratorácicos, excepto tráquea, bronquios y pulmón",28,J
+2023,22,Tumor maligno de los huesos y de los cartílagos articulares,33,Otros
+2023,23,Melanoma y otros tumores malignos de la piel,97,Otros
+2023,24,Tumor maligno de la mama de la mujer,0,Otros
+2023,25,Tumor maligno del cuello del útero,0,Otros
+2023,26,Tumor maligno de otras partes del útero,0,Otros
+2023,27,Tumor maligno del ovario,0,Otros
+2023,28,Tumor maligno de la próstata,547,Otros
+2023,29,Tumor maligno de la vejiga urinaria,63,Otros
+2023,30,Todos los demás tumores malignos de los órganos urinarios,108,Otros
+2023,31,"Tumor maligno del encéfalo, del ojo y de otras partes del sistema nervioso central",177,Otros
+2023,32,Tumor maligno del tiroides y de otras glándulas endocrinas,32,Otros
+2023,33,Tumores malignos de sitios mal definidos y secundarios,23,Otros
+2023,34,Tumor maligno de sitios no especificados,91,Otros
+2023,35,Leucemia,164,Otros
+2023,36,"Todos los demás tumores malignos del tejido linfático, de los órganos hematopoyéticos y de tejidos afines",279,Otros
+2023,37,"Tumores: in situ, benignos y de comportamiento incierto o desconocido y los no especificados",226,Otros
+2023,38,Todos los demás tumores malignos de otras localizaciones,139,Otros
+2023,39,"Anemias: nutricionales, hemolíticas, aplásticas y otras",21,Otros
+2023,40,"Defectos de coagulación, púrpura y otras afecciones hemorrágicas y de la sangre y los trastornos que afectan la inmunidad",42,Otros
+2023,41,Diabetes mellitus,449,Otros
+2023,42,Deficiencias nutricionales,33,Otros
+2023,43,Todas las demás enfermedades endocrinas y nutricionales,190,Otros
+2023,44,Trastornos mentales y del comportamiento,157,Otros
+2023,45,Meningitis y otras enfermedades inflamatorias del sistema nervioso central,41,Otros
+2023,46,Epilepsia y otros trastornos episódicos y paroxísticos,106,Otros
+2023,47,Todas las demás enfermedades del sistema nervioso,518,Otros
+2023,48,"Enfermedades del ojo y sus anexos, del oído y de la apófisis mastoides",2,Otros
+2023,49,Fiebre reumática aguda y enfermedades cardíacas reumáticas crónicas,6,Otros
+2023,50,Enfermedades hipertensivas,485,Otros
+2023,51,Enfermedades isquémicas del corazón,2969,Otros
+2023,52,Enfermedad cardiopulmonar y enfermedades de la circulación pulmonar,64,J
+2023,53,Todas las demás formas de enfermedad del corazón,367,Otros
+2023,54,Insuficiencia cardíaca,64,Otros
+2023,55,Enfermedades cerebrovasculares,846,Otros
+2023,56,Aterosclerosis,5,Otros
+2023,57,Aneurisma aórtico,177,Otros
+2023,58,Enfermedades de los vasos sanguíneos y otras enfermedades del sistema circulatorio,123,Otros
+2023,59,Neumonía,481,J
+2023,60,Enfermedades crónicas de las vías respiratorias inferiores,975,J
+2023,61,Enfermedades del pulmón debidas a agentes externos,82,J
+2023,62,Todas las demás enfermedades del sistema respiratorio,197,J
+2023,63,Úlcera,84,Otros
+2023,64,Enfermedades del esófago y otras enfermedades del estómago y del duodeno,107,Otros
+2023,65,"Enfermedades del apéndice, hernia y obstrucción intestinal",188,Otros
+2023,66,Enfermedades del hígado,269,Otros
+2023,67,"Trastornos de la vesícula biliar, de las vías biliares y del páncreas",196,Otros
+2023,68,"Enteritis, colitis no infecciosa y otras enfermedades de los intestinos",158,Otros
+2023,69,Enfermedades del peritoneo y todas las demás enfermedades del sistema digestivo,28,Otros
+2023,70,Hemorragia gastrointestinal,28,Otros
+2023,71,Enfermedades de la piel y del tejido subcutáneo,58,Otros
+2023,72,Enfermedades del sistema osteomuscular y del tejido conjuntivo,120,Otros
+2023,73,Enfermedades glomerulares y tubulointersticiales,35,Otros
+2023,74,Insuficiencia renal,62,Otros
+2023,75,Todas las demás enfermedades del sistema urinario,184,Otros
+2023,76,Hiperplasia de la próstata,105,Otros
+2023,77,Trastornos de los órganos genitales,15,Otros
+2023,78,"Embarazo, parto y puerperio",0,Otros
+2023,79,Feto y recién nacido afectados por ciertas afecciones maternas,13,Otros
+2023,80,Feto y recién nacido afectados por complicaciones obstétricas y traumatismo del nacimiento,18,Otros
+2023,81,"Retardo del crecimiento fetal, desnutrición fetal, gestación corta y bajo peso al nacer",3,Otros
+2023,82,Trastornos respiratorios específicos del período perinatal,52,J
+2023,83,Trastornos hemorrágicos y hematológicos del feto y del recién nacido,13,Otros
+2023,84,Infecciones específicas del período perinatal,36,Otros
+2023,85,Enterocolitis necrotizante del feto y del recién nacido,20,Otros
+2023,86,Todas las demás afecciones originadas en el período perinatal,20,Otros
+2023,87,Malformaciones congénitas del sistema circulatorio,45,Otros
+2023,88,"Las demás malformaciones congénitas, deformidades y anomalías congénitas",88,Otros
+2023,89,"Signos, síntomas y afecciones mal definidas",280,Otros
+2023,90,Accidentes de transporte de motor y secuelas,607,Otros
+2023,91,Otros accidentes de transporte terrestre,31,Otros
+2023,92,Los demás accidentes de transporte y los no especificados y secuelas,3,Otros
+2023,93,Caídas,180,Otros
+2023,94,Accidentes por disparo de arma de fuego,0,Otros
+2023,95,Ahogamiento y sumersión accidentales,27,Otros
+2023,96,Otros accidentes que obstruyen la respiración,31,Otros
+2023,97,"Exposición a la corriente eléctrica, radiación y temperatura y presión del aire ambientales extremas",19,Otros
+2023,98,"Exposición al humo, fuego y llamas",8,Otros
+2023,99,"Envenenamiento accidental por, y exposición a sustancias nocivas",40,Otros
+2023,100,Lesiones autoinfligidas intencionalmente (suicidios) y secuelas,325,Otros
+2023,101,Agresiones (homicidios) y secuelas,1002,Otros
+2023,102,Eventos de intención no determinada y secuelas,215,Otros
+2023,103,Intervención legal y operaciones de guerra y secuelas,0,Otros
+2023,104,Contratiempos de la atención médico quirúrgica y secuelas,11,Otros
+2023,105,Otros accidentes y secuelas,55,Otros

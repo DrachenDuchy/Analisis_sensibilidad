@@ -1,5 +1,0 @@
-variable_original,variable_limpia,transformacion,q_low,q_high
-Vel_viento_idw,Vel_viento_idw_clean,sin cambio,,
-diff_PM25_grid,diff_PM25_grid_slog_clean,signed_log1p + winsor_1_99,-2.721350950277619,2.6610172641670182
-grad_PM25_grid,grad_PM25_grid_clean,winsor_1_99,4.796772025119673e-07,0.0010924835485652225
-adv_proxy_PM25_grid,adv_proxy_PM25_grid_clean,winsor_1_99,4.898759178973817e-07,0.0012463417268076978

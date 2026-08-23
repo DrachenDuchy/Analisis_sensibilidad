@@ -1,0 +1,1021 @@
+﻿Año,Mes,Estacion,Localidad,Fuente,Cobertura_Temp,Cobertura_HR,Cobertura_Viento,Cobertura_Presion,Cobertura_Precip,dias_esperados,n_Temp,n_HR,n_Viento,n_Presion,n_Precip
+2020,1,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,1,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,2,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,2,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2020,3,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,3,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,4,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,4,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,5,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,5,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,6,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,6,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,7,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,7,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,8,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,9,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,9,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,10,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,10,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,11,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,11,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2020,12,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2020,12,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,1,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,2,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,2,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2021,3,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,3,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,4,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,4,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,5,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,5,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,6,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,6,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,7,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,7,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,8,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,9,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,9,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,10,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,10,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,11,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,11,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2021,12,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2021,12,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,1,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,2,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,2,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2022,3,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,3,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,4,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,4,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,5,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,5,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,6,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,6,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,7,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,7,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,8,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,9,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,9,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,10,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,10,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,11,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,11,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2022,12,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2022,12,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,1,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,2,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,2,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,28,28,28,28,0,28
+2023,3,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,3,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,4,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,4,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,5,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,5,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,6,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,6,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,7,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,7,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,8,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,9,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,9,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,10,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,10,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,11,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,11,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2023,12,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2023,12,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,1,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,2,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,2,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,29,29,29,29,0,29
+2024,3,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,3,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,4,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,4,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,5,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,5,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,6,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,6,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,7,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,7,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,8,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,9,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,9,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,10,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,10,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,11,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,11,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,30,30,30,30,0,30
+2024,12,Bolivia,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Carvajal - Sevillana,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Centro de Alto Rendimiento,Barrios Unidos,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Ciudad Bolivar,Ciudad Bolívar,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Colina,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Guaymaral,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Kennedy,Kennedy,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Las Ferias,Engativá,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,MinAmbiente,Teusaquillo,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Movil Fontibon,Fontibón,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Puente Aranda,Puente Aranda,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,SUBA,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,San Cristobal,San Cristóbal,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Suba,Suba,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Tunal,Tunjuelito,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31
+2024,12,Usaquen,Usaquén,NASA_POWER,1.0,1.0,1.0,0.0,1.0,31,31,31,31,0,31

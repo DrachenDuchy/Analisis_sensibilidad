@@ -1,0 +1,20 @@
+METADATO:;Morbilidad atendida en Bogotá identificada en RIPS
+;
+Serie de tiempo desde;2019 -2024
+Definición del indicador;La morbilidad atendida se presenta en relación con las causas de atención en servicios de salud reportada como diagnóstico principal en los Registros Individuales de Prestación de Servicios RIPS para la población de Bogotá DC, ya sea que se trate de enfermedades propiamente dichas u otros motivos para acceder a los servicios de salud
+Utilidad;"La información derivada dela  atención de las personas en los servicios de salud constituye una aproximación cuantitativa a la carga de la enfermedad de la población, la cobertura de servicios de salud; así como para la toma de decisiones gerenciales, estratégicas, administrativas y asistenciales."
+Unidad de medición;Número absoluto
+Periodicidad;Semestral
+Año;Se calcula a partir de la fecha en la cual se prestó la atención.
+Sexo ;Identidad congénita que determina si el individuo es Hombre o Mujer.
+Tipo de atención;Se incluyen aquellas atenciones en las cuales un profesional realiza la evaluación y asignación de un diagnóstico tales como las consultas y las atenciones en los servicios de urgencias con observación y hospitalización de acuerdo con las definiciones establecidas en los lineamientos técnicos para el reporte de los RIPS 
+Edad quinquenio;Agrupación de edades simples por cada 5 años, definido por los años cumplidos por el individuo al momento de la atención
+Aseguramiento;Regimen de atención reportado al momento de la prestación del servicio y mediante el cual se realizó el pago de este, tales como regimen contributivo o subsidiado.
+Localidad del Prestador;Localidad a la que pertenece el prestador, lugar donde se realiza la prestación. 
+Tipo de atención;Determinación del tipo de atención, que puede ser  Urgencias, Consulta y Hospitalizaciones
+Grupo diagnóstico CIE10;Clasificación del diagnóstico principal reportado al momento de la atención según la agrupación oficial realizada en la Clasificación Internacional de Enfermedades (CIE10), de acuerdo con características homogéneas de tipo etiológico o morfológico
+Categoría CIE10;Corresponde a una agrupación propia de la Clasificación Internacional de Enfermedades, la cual puede ser identificada por los tres primeros caracteres del código de diagnóstico reportado. Corresponden a una subdivisión de los Grupos CIE10
+Suma_atenciones;Total de atenciones que por registro o fila se comprende.
+EAPB;Entidad responsable del pago del servicio prestado, según lo reportado al momento de la atención. Se reporta de manera agrupada por entidad.  En el caso de las atenciones particulares se presenta como “particular” para diferenciar aquellas que fueron financiadas directamente por el usuario.
+Indice de frecuencia de uso:;promedio de veces que un individuo asiste en un año a los servicios de salud 
+Fórmula de cálculo;Atenciones es el número de Registros Individuales de Prestación de servicios encontrados en un periodo de tiempo y personasncorresponde al número de personas o individuos únicos encontrados en la Base de Datos para un periodo de tiempo  

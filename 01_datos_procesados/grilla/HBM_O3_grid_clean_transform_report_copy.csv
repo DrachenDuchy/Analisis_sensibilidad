@@ -1,5 +1,0 @@
-variable_original,variable_limpia,transformacion,q_low,q_high
-Vel_viento_idw,Vel_viento_idw_clean,sin cambio,,
-diff_O3_grid,diff_O3_grid_slog_clean,signed_log1p + winsor_1_99,-2.483408091062403,2.505432364757695
-grad_O3_grid,grad_O3_grid_clean,winsor_1_99,4.822031809786646e-07,0.0007244166937124893
-adv_proxy_O3_grid,adv_proxy_O3_grid_clean,winsor_1_99,5.156864622299572e-07,0.0007844492221473761
