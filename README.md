@@ -20,15 +20,13 @@ El proyecto integra tres componentes principales:
 - `03_resultados_figuras/`: figuras finales y complementarias.
 - `04_resultados_tablas/`: tablas de resultados, métricas y sensibilidad.
 - `05_anexos/`: material complementario para revisión.
-- `06_logs_y_trazabilidad/`: inventarios, logs y archivos de trazabilidad.
+
 
 ## Nota sobre Sumapaz
 
 Sumapaz fue incluida en todos los cálculos originales. Sin embargo, algunas figuras principales excluyen esta localidad únicamente con fines de visualización, debido a su peso espacial desproporcionado dentro de la malla de análisis. Los resultados completos con Sumapaz se conservan en las tablas, anexos y archivos de auditoría territorial.
 
-## Reproducibilidad
 
-Los scripts se encuentran organizados por etapa. Para reproducir el flujo completo, se recomienda seguir el orden de las carpetas dentro de `02_codigo/`.
 
 ## Autor
 
