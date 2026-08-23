@@ -16,7 +16,7 @@ El proyecto integra tres componentes principales:
 
 - `documento/`: versión final del documento y archivos LaTeX.
 - `01_datos_procesados/`: bases de datos limpias y procesadas usadas en el análisis.
-- `02_codigo/`: scripts y notebooks organizados por etapa metodológica.
+- `02_NOTEBOOKS/`: scripts y notebooks organizados por etapa metodológica.
 - `03_resultados_figuras/`: figuras finales y complementarias.
 - `04_resultados_tablas/`: tablas de resultados, métricas y sensibilidad.
 - `05_anexos/`: material complementario para revisión.
